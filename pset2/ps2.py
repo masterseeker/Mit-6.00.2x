@@ -384,7 +384,7 @@ def showPlot2(title, x_label, y_label):
 #       (... your call here ...)
 #
 
-#showPlot1("Time It Takes 1-10 Robots To Cleam 80% Of A Room",
+showPlot1("Time It Takes 1-10 Robots To Cleam 80% Of A Room",
 #          "Number of Robots", "Time-Steps")
 #
 
